@@ -1,0 +1,14 @@
+C:\Users\CarlosJOF\source\repos\APItodo\APItodo\bin\Debug\netcoreapp2.1\APItodo.deps.json
+C:\Users\CarlosJOF\source\repos\APItodo\APItodo\bin\Debug\netcoreapp2.1\APItodo.runtimeconfig.json
+C:\Users\CarlosJOF\source\repos\APItodo\APItodo\bin\Debug\netcoreapp2.1\APItodo.runtimeconfig.dev.json
+C:\Users\CarlosJOF\source\repos\APItodo\APItodo\bin\Debug\netcoreapp2.1\APItodo.dll
+C:\Users\CarlosJOF\source\repos\APItodo\APItodo\bin\Debug\netcoreapp2.1\APItodo.pdb
+C:\Users\CarlosJOF\source\repos\APItodo\APItodo\obj\Debug\netcoreapp2.1\APItodo.csproj.CoreCompileInputs.cache
+C:\Users\CarlosJOF\source\repos\APItodo\APItodo\obj\Debug\netcoreapp2.1\APItodo.RazorAssemblyInfo.cache
+C:\Users\CarlosJOF\source\repos\APItodo\APItodo\obj\Debug\netcoreapp2.1\APItodo.RazorAssemblyInfo.cs
+C:\Users\CarlosJOF\source\repos\APItodo\APItodo\obj\Debug\netcoreapp2.1\APItodo.AssemblyInfoInputs.cache
+C:\Users\CarlosJOF\source\repos\APItodo\APItodo\obj\Debug\netcoreapp2.1\APItodo.AssemblyInfo.cs
+C:\Users\CarlosJOF\source\repos\APItodo\APItodo\obj\Debug\netcoreapp2.1\APItodo.RazorTargetAssemblyInfo.cache
+C:\Users\CarlosJOF\source\repos\APItodo\APItodo\obj\Debug\netcoreapp2.1\APItodo.dll
+C:\Users\CarlosJOF\source\repos\APItodo\APItodo\obj\Debug\netcoreapp2.1\APItodo.pdb
+C:\Users\CarlosJOF\source\repos\APItodo\APItodo\obj\Debug\netcoreapp2.1\APItodo.csprojAssemblyReference.cache
